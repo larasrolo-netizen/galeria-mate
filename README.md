@@ -1,6 +1,6 @@
 # Galería Visual: Momentos Materos
 
-**Estudiante:** [TU NOMBRE]
+**Estudiante:** Lara Srolovich
 **Materia:** Diseño y Desarrollo Web - Actividad 1
 
 ## Breve descripción de la propuesta
